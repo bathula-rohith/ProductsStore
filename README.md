@@ -1,7 +1,5 @@
-
-
-# Products Store Documentation
-Overview
+# Products Store Documentation 
+# Intoduction
 The "Best Store" project is a web application designed to manage a collection of products, allowing users to perform CRUD (Create, Read, Update, Delete) operations. The application is built using Spring Boot for the backend and Thymeleaf for the frontend, and it supports image uploads for products.
 
 # Components
